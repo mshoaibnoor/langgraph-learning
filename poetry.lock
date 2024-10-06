@@ -293,13 +293,13 @@ ollama = ">=0.3.0,<1"
 
 [[package]]
 name = "langgraph"
-version = "0.2.32"
+version = "0.2.34"
 description = "Building stateful, multi-actor applications with LLMs"
 optional = false
 python-versions = "<4.0,>=3.9.0"
 files = [
-    {file = "langgraph-0.2.32-py3-none-any.whl", hash = "sha256:e3077d33e204ac7eb1ca9b2389d610eb3b6612a1d96aa08415ae2f4af0f6f0d1"},
-    {file = "langgraph-0.2.32.tar.gz", hash = "sha256:21c10d3a6b67b1e5d55e2bf4482d43c273e9c866cbdb98986b30f5388c9cf7f7"},
+    {file = "langgraph-0.2.34-py3-none-any.whl", hash = "sha256:93727158769f3dfad7cc5440405fca5a8cba77f79cbc0928b97f4341e561556f"},
+    {file = "langgraph-0.2.34.tar.gz", hash = "sha256:2a7f94d9a2cabbd13e09db6bd87aa99548e98613c4fe762329088b17138cec15"},
 ]
 
 [package.dependencies]
